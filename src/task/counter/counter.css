@@ -1,0 +1,50 @@
+.counter-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.counter-title {
+    font-size: 8rem;
+    color: #55cc;
+}
+
+.counter-buttons {
+    height: 100px;
+    width: 400px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.incdec-btn {
+    border: 1px solid black;
+    display: flex;
+    padding: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    gap: 10px;
+    align-items: center;
+}
+
+.incdec-btn:hover {
+    background-color: #000;
+    color: white;
+
+}
+
+.span-btn {
+    font-size: 2rem;
+    color: blue;
+}
+
+.span-decrease {
+    color: red;
+}
+
+
+

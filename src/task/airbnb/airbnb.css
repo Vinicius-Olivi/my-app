@@ -1,0 +1,8 @@
+.airbnb-main {
+    height: 33vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+
+}
